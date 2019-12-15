@@ -9,8 +9,8 @@ run with:
 
 ### Some random starting position:
 
-![](conway-random.gif)
+![](gifs/conway-random.gif)
 
 ### Pulsar:
 
-![](conway-oscillate.gif)
+![](gifs/conway-oscillate.gif)
