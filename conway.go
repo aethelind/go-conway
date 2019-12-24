@@ -6,6 +6,9 @@ import (
 )
 
 // TODO: make size of board dynamic
+// TODO: fix gifs
+// TODO: more setting options
+// TODO: clean up
 
 type cell bool
 
